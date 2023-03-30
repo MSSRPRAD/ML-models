@@ -58,8 +58,6 @@ With normalized data, it gives 95-97% accuracy, 91-97% precision and 89-96% reca
 
 ## Mini-Batch Gradient Descent
 
-There is no training involved in this model. It is the fastest model we currently have and is quite accurate on both normalized and raw data.
-
 It shows 86-89% accuracy, 84-88% precision, 83-85% recall with raw data.
 
 Shows 95-97% accuracy, 92-97% precision and 94-95% recall with normalized data.
